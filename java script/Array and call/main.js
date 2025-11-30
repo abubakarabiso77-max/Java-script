@@ -13,7 +13,7 @@ console.log(math.round(a))
 var b = 2.345
 console.log(math.floor(b))
 
-var .fruits ={"banana,avocado,papaya,mango"}
+var fruits ={"banana,avocado,papaya,mango"}
 console.log(fruits[0])
 
 var joinarry = fruits.join ("*")
